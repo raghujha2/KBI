@@ -29,6 +29,7 @@
 ?>
 
 <!-- navbar --> 
+<!-- navbar with git modified -->
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
       <a class="navbar-brand" href="index.php">Kantilal Bank of India</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
